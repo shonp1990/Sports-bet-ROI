@@ -1,6 +1,7 @@
 # Optimizing ROI Across Bet Types in Sports Betting
 
 Objective & Purpose:
+
 I did this project purely because I have an interest in sports betting. I already use a sports betting tracking app that is synced to the 7 sportsbooks that I use but the app, while powerful and gives plenty of information, does not paint a full picture. With an interest in data analytics, I wanted to put my skills to use for a fun project where I can the most profitable bet types (Moneyline, Spread, Player Prop) in a one week span. 
 About The Data:
 The data comes from the sportsbooks that I use along with the tracking app called Pikkit which I used to go and find the odds that the bet was placed and what day. The data is from a 9-day period in February which I randomly chose to make the project a little simpler. I will list the fields below:
